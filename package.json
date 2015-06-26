@@ -1,0 +1,19 @@
+{
+  "name": "cliify",
+  "version": "1.0.0",
+  "description": "very simple CLI authoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jake-rigby/cliify"
+  },
+  "author": "Jake Rigby",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "yargs": "^3.13.0"
+  }
+}
